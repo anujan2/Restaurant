@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(246, 223, 194);
+}
+
+
+.navbar
+{
+     background-color: rgb(246, 223, 194);
+}
+.navbar-brand
+{
+    font-size:40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
