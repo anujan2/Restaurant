@@ -13,3 +13,7 @@ body {
     font-size:40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.carousel  img{
+  height: 300px;
+object-fit: cover;
+}
