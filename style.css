@@ -17,3 +17,21 @@ body {
   height: 300px;
 object-fit: cover;
 }
+.hero h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.hero {
+  height: 30vh;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    text-align: center;
+}
+footer{
+  background-color: aqua;
+  color: rgb(163, 23, 23);
+  padding:20px;
+  text-align:center;
+}
